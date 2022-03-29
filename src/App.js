@@ -53,7 +53,7 @@ import Promotions from "./components/notification/Promotions"
 import WagesToSales from "./components/wagestosales/WagesToSales"
 import ChuongTrinhGoiKhachHang from "./components/chuongtrinhgoikhachhang/ChuongTrinhGoiKhachHang"
 import Page404 from "./components/common/Page404"
-import config from "./config"
+import "./Config"
 
 import store from "./store"
 
