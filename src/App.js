@@ -53,8 +53,8 @@ import Promotions from "./components/notification/Promotions"
 import WagesToSales from "./components/wagestosales/WagesToSales"
 import ChuongTrinhGoiKhachHang from "./components/chuongtrinhgoikhachhang/ChuongTrinhGoiKhachHang"
 import Page404 from "./components/common/Page404"
-import "./Config/index.js"
-import "./Config/permission.js"
+import "./config/index.js"
+import "./config/permission.js"
 
 import store from "./store"
 
