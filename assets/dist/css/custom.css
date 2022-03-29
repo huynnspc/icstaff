@@ -1,0 +1,261 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 6, 2017, 11:35:42 AM
+    Author     : Use
+*/
+
+
+/*YOUR CUSTOM STYLE STARTED IN HERE*/
+.invalid-feedback {
+    color: #E5343D !important;
+    float: left;
+    margin-top: 2px;
+}
+
+input.is-invalid {
+    border-color:#E5343D !important;
+}
+
+.text-left {
+    clear: both;
+}
+
+body, a, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans' !important;
+}
+
+.panel-body .form-group {
+    /* clear: both; */
+    /* float: left; */
+}
+
+th {
+    text-align: center;
+}
+
+span.label {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.panel-bd {
+    width: 100%;
+    height: auto;
+}
+.modal-footer .files {
+    text-align: left;
+}
+.modal-panel {
+    cursor: pointer;
+    width: 100%;
+}
+.modal-panel .panel-bd:hover {
+    background-color: #32373d;
+    box-shadow: 0 -2px 10px #2c3136;
+}
+.modal-panel .panel-heading,.panel-body,.panel-footer {
+    background-color: inherit;
+}
+.modal-panel .panel-body,.panel-footer {
+    color: #9a9da0;
+    font-size: 16px;
+}
+.modal-panel .panel-body b,strong {
+    font-weight: normal;
+}
+.modal-body{
+    font-size: 16px;
+    text-align: justify;
+}
+.panel-footer .detail{
+    font-size: 14px;
+    text-align: end;
+    color: #558B2F;
+}
+
+.dropdown-menu{
+    left: unset;
+    right: 10px;
+    min-width: unset;
+    padding: 0;
+    top: unset;
+    cursor: pointer;
+}
+.dropdown-menu li a{
+    padding: 5px 15px;
+}
+.d-none {
+    display: none;
+}
+.d-content {
+    display: contents;
+}
+.experience {
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: flex-end;
+}
+.experience textarea {
+    min-height: 50px;
+    min-width: 100%;
+}
+
+.activity-purple-add::before{
+    display: none;
+}
+.activity-purple-add::after{
+    display: none;
+}
+.cbp_tmtimeline>li i {
+    top: unset;
+}
+.card-header-headshot {
+    width: unset;
+    height: unset;
+    background-image: unset
+}
+.card-header-headshot img {
+    width: 8em;
+    -webkit-border-radius: 50%;
+    border: 2px solid #558b2f;
+}
+.update-info {
+    display: flex;
+    justify-content: center;
+}
+.cbp_tmtimeline>li .cbp_tmtime span {
+    font-size: 25px;
+    font-weight: 600;
+    color: #558B2F;
+}
+.cbp_tmtimeline>li .cbp_tmtime span:last-child {
+    font-size: 25px;
+}
+.cbp_tmlabel {
+    position: relative;
+}
+.cbp_tmlabel i {
+    position: absolute !important;
+    left: 96% !important;
+    background-color: unset !important;
+    top: 0 !important;
+    border: unset !important;
+    font-size: 1em !important;
+}
+.cbp_tmlabel_header {
+    display: flex;
+}
+.cbp_tmlabel_header h2 {
+    width: 100%;
+}
+.cbp_tmtimeline .form-control{
+    border-color: #558B2F !important;
+}
+.cbp_tmtimeline textarea {
+    min-height: 50px;
+    min-width: 100%;
+}
+.dz-remove {
+    position: absolute;
+    top: 0.5rem;
+    right: 1rem;
+    z-index: 99;
+}    
+.dz-remove i {
+    cursor: pointer !important;
+    font-size: 25px;
+}
+.label {
+    margin-bottom: .5em;
+}
+.card-content-languages .card-content-languages-group>div:first-of-type {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 8em;
+    flex: 0 0 8em;
+}
+.card-content-languages .card-content-languages-group>div:last-of-type ul {
+    padding-left: 0;
+}
+.card-content-languages .card-content-languages-group>div:last-of-type input {
+    color: #fff;
+    z-index: 0;
+}
+.card-content-languages .card-content-languages-group>div:last-of-type {
+    padding-left: 1em;
+}
+.card-content-languages .card-content-languages-group>div:last-of-type .form-group{
+    padding-left: 0;
+}
+.select2-container--default .select2-selection--multiple {
+    background-color: #1c1f22;
+    padding: 0 5px;
+    border: 0;
+}
+.card-content-languages li {
+    font-size: 14px;
+}
+.card-content-languages h4 {
+    font-size: 14px;
+}
+.errorMessage {
+    position: relative;
+    float: left;
+}
+.table>tbody>tr>td{
+    text-align: center;
+}
+.table .search {
+    text-align: left;
+}
+.table .search .input {
+    min-width: 150px;
+    width: 35%;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+}
+.table .search .input svg{
+    font-size: 24px;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    cursor: pointer;
+}
+.table .search .MuiFormControl-root{
+    width: 100%;
+}
+.table .search .MuiInputBase-root {
+    border-color: white !important;
+}
+.table .search .MuiInputBase-root::before {
+    border-color: white !important;
+}
+.table .search .MuiInputBase-root::after {
+    border-color: white !important;
+}
+.table .search .MuiInputBase-root input {
+    font-size: 14px;
+    color: white;
+    width: calc(100% - 24px);
+}
+.table .search .MuiButtonBase-root {
+    vertical-align: bottom;
+    color: white;
+    border-color: white;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

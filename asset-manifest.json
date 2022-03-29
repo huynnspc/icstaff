@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Bicstaff%7D/static/css/main.32b87b8b.chunk.css",
+    "main.js": "/%7Bicstaff%7D/static/js/main.0739487f.chunk.js",
+    "main.js.map": "/%7Bicstaff%7D/static/js/main.0739487f.chunk.js.map",
+    "runtime-main.js": "/%7Bicstaff%7D/static/js/runtime-main.3df632aa.js",
+    "runtime-main.js.map": "/%7Bicstaff%7D/static/js/runtime-main.3df632aa.js.map",
+    "static/css/2.8d4cdce2.chunk.css": "/%7Bicstaff%7D/static/css/2.8d4cdce2.chunk.css",
+    "static/js/2.8cee4f76.chunk.js": "/%7Bicstaff%7D/static/js/2.8cee4f76.chunk.js",
+    "static/js/2.8cee4f76.chunk.js.map": "/%7Bicstaff%7D/static/js/2.8cee4f76.chunk.js.map",
+    "index.html": "/%7Bicstaff%7D/index.html",
+    "precache-manifest.45b53b9078c99391249cfd2a7bcbc868.js": "/%7Bicstaff%7D/precache-manifest.45b53b9078c99391249cfd2a7bcbc868.js",
+    "service-worker.js": "/%7Bicstaff%7D/service-worker.js",
+    "static/css/2.8d4cdce2.chunk.css.map": "/%7Bicstaff%7D/static/css/2.8d4cdce2.chunk.css.map",
+    "static/css/main.32b87b8b.chunk.css.map": "/%7Bicstaff%7D/static/css/main.32b87b8b.chunk.css.map",
+    "static/js/2.8cee4f76.chunk.js.LICENSE.txt": "/%7Bicstaff%7D/static/js/2.8cee4f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df632aa.js",
+    "static/css/2.8d4cdce2.chunk.css",
+    "static/js/2.8cee4f76.chunk.js",
+    "static/css/main.32b87b8b.chunk.css",
+    "static/js/main.0739487f.chunk.js"
+  ]
+}
