@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# src/config/index.js
-# src/config/permission.js
+src/config/index.js
+src/config/permission.js
