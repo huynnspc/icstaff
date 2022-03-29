@@ -1,6 +1,9 @@
 {
   "name": "icool-business",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
   "private": true,
   "dependencies": {
     "@casl/ability": "^5.3.1",
